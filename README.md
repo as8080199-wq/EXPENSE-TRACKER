@@ -1,0 +1,1 @@
+Expense Tracker is a Python application that helps users record daily expenses, view expense history, and calculate total spending. This project is built using Python basics such as lists, dictionaries, loops, and user input.
